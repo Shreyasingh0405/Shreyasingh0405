@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://profile-counter.glitch.me/Shreyasingh0405/count.svg" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shreyasingh0405&style=for-the-badge&color=6BCB77&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -42,7 +42,7 @@ status: 🟢 Open to Senior Backend / Node.js roles
 </td>
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="260">
 
 </td>
 </tr>
