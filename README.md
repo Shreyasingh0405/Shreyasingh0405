@@ -42,7 +42,7 @@ status: 🟢 Open to Senior Backend / Node.js roles
 </td>
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="260">
+<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/code.gif" width="260">
 
 </td>
 </tr>
@@ -147,12 +147,12 @@ status: 🟢 Open to Senior Backend / Node.js roles
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shreyasingh0405&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=FF6B6B&icon_color=6BCB77&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasingh0405&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=FF6B6B&text_color=ffffff" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Shreyasingh0405&show_icons=true&theme=dark&hide_border=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shreyasingh0405&layout=compact&theme=dark&hide_border=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Shreyasingh0405&theme=radical&hide_border=true&border_radius=15&background=1a1b27&ring=FF6B6B&fire=FFD93D&currStreakLabel=6BCB77" />
+<img src="https://streak-stats.demolab.com?user=Shreyasingh0405&theme=dark&hide_border=true" />
 
 </div>
 
