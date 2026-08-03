@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shreya Singh</h1>
-<h3 align="center">Senior Node.js Backend Engineer | GraphQL • Microservices • Cloud</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=220&section=header&text=Shreya%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Node.js%20Backend%20Engineer&descAlignY=55&descSize=22" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Node.js;GraphQL+%7C+Apollo+Federation+%7C+Microservices;3%2B+Years+%7C+Healthcare+%2C+Logistics+%2C+E-commerce;AWS+%7C+Azure+%7C+GCP+%7C+CI%2FCD+Automation" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreyasingh0405&style=flat-square&color=2F80ED&label=Profile+Views" />
 </p>
 
 <p align="center">
@@ -81,12 +84,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreyasingh0405&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasingh0405&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyasingh0405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasingh0405&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyasingh0405&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shreyasingh0405&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyasingh0405&theme=tokyo-night&hide_border=true&border_radius=10" width="95%" />
 </p>
 
 ---
@@ -96,10 +103,12 @@
 - **[flightSystem](https://github.com/Shreyasingh0405/flightSystem)** — Flight booking backend system
 - **[shelfMaster](https://github.com/Shreyasingh0405/shelfMaster)** — Inventory/shelf management system
 - **[Cms](https://github.com/Shreyasingh0405/Cms)** — Content management backend
-- **Restaurant Listing System** — Table booking + reviews platform with multi-device session management, Nodemailer & Twilio integration
+- **[restaurantManagement](https://github.com/Shreyasingh0405/restaurantManagement)** — Table booking + reviews platform with multi-device session management, Nodemailer & Twilio integration
 
 ---
 
 <p align="center">
-  <i>Open to Senior Backend / Node.js Engineering roles</i>
+  <i>💼 Open to Senior Backend / Node.js Engineering roles</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B51E0,100:2F80ED&height=100&section=footer" />
