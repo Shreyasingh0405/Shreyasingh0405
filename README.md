@@ -16,25 +16,37 @@
 
 </div>
 
-<br>
 
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
 name: Shreya Singh
 role: Senior Node.js Backend Engineer
 experience: 3+ Years
 domains: [Healthcare, Logistics, E-commerce]
-currently_building: GraphQL subgraphs & REST APIs @ Healthcare platform (millions of users)
+currently_building: GraphQL subgraphs & REST APIs
+                     @ Healthcare platform (millions of users)
 impact:
   - API response time reduced by 40%
   - Deployment time reduced by 35%
   - Code coverage boosted 65% → 100%
-ai_tools: [Cursor, Windsurf, GitHub Copilot, Claude, ChatGPT, Gemini]
+ai_tools: [Cursor, Windsurf, Copilot, Claude, ChatGPT, Gemini]
 status: 🟢 Open to Senior Backend / Node.js roles
 ```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260">
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -135,7 +147,7 @@ status: 🟢 Open to Senior Backend / Node.js roles
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shreyasingh0405&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=15&bg_color=1a1b27&title_color=FF6B6B&icon_color=6BCB77&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shreyasingh0405&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=FF6B6B&icon_color=6BCB77&text_color=ffffff" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasingh0405&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=FF6B6B&text_color=ffffff" />
 
 <br>
