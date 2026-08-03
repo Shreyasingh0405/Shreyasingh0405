@@ -42,7 +42,7 @@ status: 🟢 Open to Senior Backend / Node.js roles
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/code.gif" width="260">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260">
 
 </td>
 </tr>
@@ -149,10 +149,6 @@ status: 🟢 Open to Senior Backend / Node.js roles
 
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=Shreyasingh0405&show_icons=true&theme=dark&hide_border=true" />
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shreyasingh0405&layout=compact&theme=dark&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Shreyasingh0405&theme=dark&hide_border=true" />
 
 </div>
 
